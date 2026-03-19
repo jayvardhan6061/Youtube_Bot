@@ -354,6 +354,6 @@ Built with:
 
 **⭐ Star this repo if it helped you!**
 
-Built by [Jayav](https://github.com/YOUR_USERNAME) · [Medium Article](https://medium.com) · [YouTube Channel](#)
+Built by [Jayavardhanreddy](https://github.com/YOUR_USERNAME) · [Medium Article](https://medium.com) · [YouTube Channel](#)
 
 </div>
