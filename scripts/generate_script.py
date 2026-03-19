@@ -13,7 +13,7 @@ log = logging.getLogger(__name__)
 
 # ─── CONFIG ──────────────────────────────────────────────────────
 # Paste your free Gemini API key here (from https://aistudio.google.com)
-GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "AIzaSyACKA2vkXXuGxjvRxxMHHo9m9k2OFSeaiE")
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "place your API key here")
 GEMINI_URL = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
     "gemini-2.0-flash-lite:generateContent?key=" + GEMINI_API_KEY
